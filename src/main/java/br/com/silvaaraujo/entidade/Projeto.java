@@ -4,6 +4,6 @@ public class Projeto {
 
 	private Long id;
 	private String nome;
-	private String gitRepository;
+	private String gitRepository; 
 	
 }
